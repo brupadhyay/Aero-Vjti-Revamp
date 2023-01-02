@@ -720,3 +720,12 @@
   }
 }
 /*# sourceMappingURL=style.css.map */
+.contribution {
+  margin: 2rem auto 8rem;
+  text-align: center;
+  padding: 2.5rem;
+}
+
+.contribution h1 {
+  padding: 1rem;
+}
